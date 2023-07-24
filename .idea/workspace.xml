@@ -5,53 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixRowAndColumnSummation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OneHourKeyCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrderedStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2DuplicateRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayDuplicateRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/candyKidRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/citationIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstOccurenceIndexString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementedPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/islandBridgeConnecting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jumpGame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kDistanceBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lengthLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longComPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medianOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergingSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nQueensChess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromesourausNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parenthesisValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/productArrayXSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/randomisedSetImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regularExpressionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseWordInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/romanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortestPalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stockProfits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stockProfits2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zigzagConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kthFactorInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallerPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nQueensChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nQueensChess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
