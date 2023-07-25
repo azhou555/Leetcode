@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kthFactorInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallerPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/permutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nQueensChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nQueensChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
