@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greatestCommonDivisorOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/increasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kidsWithGreatestCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moveZeroesLeetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placingFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseVowelsOfAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/capitalizeTheTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/capitalizeTheTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/detectCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/detectCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frogJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frogJump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interleavingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interleavingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/islandBridgeConnecting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/islandBridgeConnecting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/largestNumberString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/largestNumberString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseWordInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseWordInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +56,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="mergingSortedArray" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergingSortedArray" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
