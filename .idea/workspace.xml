@@ -4,16 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/permutations.java" afterDir="false" />
+    <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="Latest methods and problems">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containerMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findTheHighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isSubsequence392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longestSubarrayOfOneAfterDeletingOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxConsecutiveOnes3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxNumberKSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maximamAverageSubarray1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maximumVowelsSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moveZeroesLeetcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes283.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +44,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2QT5RHFFUc2EsFgxrtHROctWyDJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,17 +65,61 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alec1/IdeaProjects/Leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="mergingSortedArray" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergingSortedArray" />
+  <component name="RunManager" selected="Application.findPivotIndex">
+    <configuration name="containerMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="containerMostWater" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="findPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findPivotIndex" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestSubarrayOfOneAfterDeletingOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestSubarrayOfOneAfterDeletingOne" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxConsecutiveOnes3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxConsecutiveOnes3" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.findPivotIndex" />
+        <item itemvalue="Application.longestSubarrayOfOneAfterDeletingOne" />
+        <item itemvalue="Application.maxConsecutiveOnes3" />
+        <item itemvalue="Application.containerMostWater" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,8 +129,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685364723774</updated>
+      <workItem from="1695239784409" duration="28000" />
+      <workItem from="1695239820321" duration="36000" />
+      <workItem from="1695239996991" duration="1258000" />
+      <workItem from="1695241274933" duration="187000" />
+      <workItem from="1695241506855" duration="102000" />
+      <workItem from="1695241621230" duration="519000" />
+      <workItem from="1695245166836" duration="2362000" />
+      <workItem from="1695272218018" duration="454000" />
+      <workItem from="1695313884454" duration="1134000" />
+      <workItem from="1695315648160" duration="740000" />
+      <workItem from="1695318166056" duration="3656000" />
+      <workItem from="1695410455607" duration="653000" />
     </task>
+    <task id="LOCAL-00001" summary="Latest methods and problems">
+      <created>1694631624093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694631624093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Latest methods and problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest methods and problems" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -68,6 +165,10 @@
         <watch expression="map2" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$mergingSortedArray.ic" NAME="mergingSortedArray Coverage Results" MODIFIED="1689196678573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

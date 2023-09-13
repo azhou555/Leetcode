@@ -2,16 +2,7 @@ public class reverseWordInString {
     public static void main(String[] args) {
         System.out.println(reverseWords("a good    example"));
     }
-
     public static String reverseWords(String s) {
-        String[] array = s.trim().split(" ", 0);
-        String ans = "";
-        for(int i = array.length-1; i<array.length; i++) {
-        }
-        return ans + array[0];
-    }
-
-    public static String reverseWords2(String s) {
         int i = 0;
         String ans = "";
         while (i < s.length()) {
@@ -26,16 +17,16 @@ public class reverseWordInString {
     }
 
     public static String reverseWords1(String s) {
-        String ans = "";
-        String word = "";
+        StringBuilder ans = new StringBuilder("");
+        StringBuilder word = new StringBuilder("");
         for (int i = s.length()-1; i >= 0; i--) {
             if (s.charAt(i) != ' ') {
-                word = s.charAt(i)+word;
+                word.insert(0,s.charAt(i));
             } else {
-                if(word != " "){
-                    ans = word == "" ? ans : ans+" "+word;
+                if(!word.equals(" ")){
+                    ans = word.equals("") ? ans : word.insert(0, ans+" ");
                 }
-                word = "";
+                word = new StringBuilder(" ");
             }
         }
         return (ans+" "+word).trim();
