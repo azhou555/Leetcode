@@ -1,9 +1,5 @@
 import java.util.*;
 public class majElement {
-    public static void main(String[] args) {
-        int[] nums = {0, 0, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 5, 6};
-        System.out.println(majorityElement2(nums));
-    }
     public static int majorityElement(int[] nums){
         int c = 0;
         int d = 0;

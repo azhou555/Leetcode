@@ -1,7 +1,4 @@
 public class nthUglyNumberProblem {
-    public static void main(String[] args) {
-
-    }
     public static int nthUglyNumber(int n){
         int count = 0;
         for(int i = 1; i< Integer.MAX_VALUE; i++){

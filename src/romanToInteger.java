@@ -1,9 +1,5 @@
 import java.util.*;
 public class romanToInteger {
-    public static void main(String[] args) {
-        String num = "III";
-        System.out.println(romanToInt(num));
-    }
     public static int romanToInt(String s){
         char[] array = s.toCharArray();
         Map<Character, Integer> map = new HashMap<>();

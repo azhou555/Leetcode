@@ -1,8 +1,4 @@
 public class increasingTripletSubsequence {
-    public static void main(String[] args) {
-        int[] nums = {2, 1, 5, 0, 4, 6};
-        System.out.println(increasingTriplet(nums));
-    }
     public static boolean increasingTriplet(int[] nums) {
         int max1 = Integer.MAX_VALUE;
         int max2 = Integer.MAX_VALUE;

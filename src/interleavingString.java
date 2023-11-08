@@ -1,9 +1,6 @@
 import java.util.Arrays;
 
 public class interleavingString {
-	public static void main(String[] args) {
-		System.out.println(isInterleave("aabcc", "dbbca", "aadbbcbacc"));
-	}
 
 	public static boolean isInterleave1(String s1, String s2, String s3) {
 		int a = 0;

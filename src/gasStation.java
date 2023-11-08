@@ -1,10 +1,4 @@
 public class gasStation {
-    public static void main(String[] args) {
-        int[] gas = {1, 1, 1, 1, 1, 1, 3, 400};
-        int[] cost = {2, 2, 2, 2, 2, 2, 2, 5};
-        System.out.println(canCompleteCircuit(gas, cost));
-    }
-
     public static int canCompleteCircuit(int[] gas, int[] cost) {
         int start = 0;
         int tot = 0;

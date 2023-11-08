@@ -1,12 +1,5 @@
 import java.util.*;
 public class rotateArray {
-    public static void main(String[] args) {
-        int[] nums = {0, 1, 2, 3, 4};
-        rotate(nums, 2);
-        for(int element: nums){
-            System.out.print(element+", ");
-        }
-    }
     public static int[] rotate(int[] nums, int k){
         k%=nums.length;
         reverse(nums, 0, nums.length-1);

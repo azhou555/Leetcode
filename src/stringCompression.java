@@ -1,7 +1,4 @@
 public class stringCompression {
-    public static void main(String[] args) {
-
-    }
     public static int compress(char[] chars){
         StringBuilder sb = new StringBuilder("");
         char curr = ' ';

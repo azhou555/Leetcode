@@ -1,10 +1,6 @@
 import java.util.*;
 
 public class shortestPalindromeString {
-    public static void main(String[] args) {
-        System.out.println(shortestPalindrome("hawaii"));
-    }
-
     public static String shortestPalindrome1(String s) {
         int i = s.length() - 1;
         Queue<String> holder = new LinkedList<>();

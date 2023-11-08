@@ -1,7 +1,4 @@
 public class firstOccurenceIndexString {
-    public static void main(String[] args) {
-        System.out.println(strStr("sadbutsad", "sad"));
-    }
     public static int strStr1(String haystack, String needle){
         int k = 0;
         int j = 0;

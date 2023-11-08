@@ -1,7 +1,4 @@
 public class mergeStringsAlternately {
-    public static void main(String[] args) {
-        System.out.println(mergeAlternately("abc", "pqr"));
-    }
     public static String mergeAlternately1(String word1, String word2){
         int l1 = word1.length();
         int l2 = word2.length();

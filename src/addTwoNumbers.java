@@ -1,22 +1,4 @@
 public class addTwoNumbers {
-    public static void main(String[] args) {
-        ListNode a = new ListNode(2);
-        ListNode b = new ListNode(4);
-        ListNode c = new ListNode(3);
-        a.next = b;
-        b.next = c;
-        ListNode d = new ListNode(5);
-        ListNode e = new ListNode(6);
-        ListNode f = new ListNode(4);
-        d.next = e;
-        e.next = f;
-        ListNode res = addTwoNumbers(a, d);
-        while (res.next != null) {
-            System.out.print(res.val + ", ");
-            res = res.next;
-        }
-        System.out.print(res.val);
-    }
 
     public static ListNode addTwoNumbers1(ListNode l1, ListNode l2) {
         int n1 = 0;

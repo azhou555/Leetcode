@@ -1,7 +1,4 @@
-public class maximamAverageSubarray1 {
-    public static void main(String[] args) {
-
-    }
+public class maximumAverageSubarray1 {
     public static double findMaxAverage(int[] nums, int k){
         int curr = 0;
         for(int i = 0; i < k; i++){

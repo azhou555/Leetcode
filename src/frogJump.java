@@ -1,10 +1,6 @@
 import java.util.Arrays;
 
 public class frogJump {
-    public static void main(String[] args) {
-        int[] stones = {0, 1, 3, 6, 10, 13, 14};
-        System.out.println(canCross(stones));
-    }
     public static boolean canCross(int[] stones) {
         int n = stones.length;
         boolean[][] dp = new boolean[n][n + 1];

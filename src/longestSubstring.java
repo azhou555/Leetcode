@@ -1,9 +1,6 @@
 import java.util.*;
 
 public class longestSubstring {
-    public static void main(String[] args) {
-        System.out.println(lengthOfLongestSubstring("tmmzust"));
-    }
     public static int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int maxLength = 0;

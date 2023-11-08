@@ -1,9 +1,5 @@
 import java.util.*;
 public class jumpGame2 {
-    public static void main(String[] args) {
-        int[] nums = {2, 3, 1, 1, 4};
-        System.out.println(jump(nums));
-    }
 
     public static int jump1(int[] nums) {
         int[] dp = new int[nums.length];

@@ -1,7 +1,4 @@
 public class isUglyNumber {
-    public static void main(String[] args) {
-        System.out.println(isUgly(7));
-    }
     public static boolean isUgly1(int n){
         if(n == 0 || n == 1)
             return true;

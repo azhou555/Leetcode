@@ -2,9 +2,6 @@
 import java.util.Arrays;
 import java.util.List;
 public class kidsWithGreatestCandies {
-    public static void main(String[] args) {
-
-    }
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies){
         int max = 0;
         Boolean[] ans = new Boolean[candies.length];

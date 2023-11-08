@@ -1,7 +1,4 @@
 public class longestPalindromicSubstring {
-    public static void main(String[] args) {
-        System.out.println(longestPalindrome("aba"));
-    }
     public static String longestPalindrome(String s){
         int start = 0;
         int end = 0;

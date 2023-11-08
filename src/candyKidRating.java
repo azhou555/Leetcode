@@ -1,9 +1,5 @@
 import java.util.*;
 public class candyKidRating {
-    public static void main(String[] args) {
-        int[] ratings = {1, 3, 4, 5, 2};
-        System.out.println(candy(ratings));
-    }
     public static int candy(int[] ratings){
         int count = 0;
         int[] candies = new int[ratings.length];

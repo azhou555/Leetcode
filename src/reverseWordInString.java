@@ -1,7 +1,4 @@
 public class reverseWordInString {
-    public static void main(String[] args) {
-        System.out.println(reverseWords("a good    example"));
-    }
     public static String reverseWords(String s) {
         int i = 0;
         String ans = "";

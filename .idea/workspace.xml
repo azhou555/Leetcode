@@ -3,26 +3,112 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="Latest methods and problems">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containerMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/findPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/findTheHighestAltitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isSubsequence392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestSubarrayOfOneAfterDeletingOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxConsecutiveOnes3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxNumberKSumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximamAverageSubarray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximumVowelsSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binaryTreeInOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decodedStringAtIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kthLargestElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longestBinarySubsequenceK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longestValidParentheses32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minimumDistanceTypeWordOnKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/monotonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/print2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printWordsVertically.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeLinkedListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeNthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortingArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumOfNumbersWithUnitsDigitK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uniqueBinarySearchTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildcardMatching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moveZeroesLeetcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OneHourKeyCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneHourKeyCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/addTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array2DuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array2DuplicateRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayDuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayDuplicateRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/candyKidRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/candyKidRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/capitalizeTheTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/capitalizeTheTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/citationIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/citationIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containerMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/containerMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/detectCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/detectCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findPivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findPivotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findTheHighestAltitude.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findTheHighestAltitude.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstOccurenceIndexString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstOccurenceIndexString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frogJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frogJump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gasStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gasStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greatestCommonDivisorOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greatestCommonDivisorOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementedPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementedPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/increasingTripletSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/increasingTripletSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interleavingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interleavingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isSubsequence392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isSubsequence392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/islandBridgeConnecting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/islandBridgeConnecting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jumpGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jumpGame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jumpGame2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kDistanceBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kDistanceBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kidsWithGreatestCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kidsWithGreatestCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kthFactorInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kthFactorInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/largestNumberString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/largestNumberString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lengthLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lengthLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longComPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longComPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestPalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longestSubarrayOfOneAfterDeletingOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSubarrayOfOneAfterDeletingOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/majElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/majElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maxConsecutiveOnes3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxConsecutiveOnes3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maxNumberKSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxNumberKSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maximamAverageSubarray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maximumAverageSubarray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maximumVowelsSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maximumVowelsSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medianOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergeKSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergeStringsAlternately.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mergingSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergingSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moveZeroes283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nQueensChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nQueensChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindromesourausNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindromesourausNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parenthesisValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parenthesisValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/placingFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/placingFlowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/productArrayXSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/productArrayXSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/randomisedSetImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/randomisedSetImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regularExpressionMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/removeDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseVowelsOfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseVowelsOfAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseWordInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseWordInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/romanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/romanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shortestPalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shortestPalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smallerPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smallerPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stockProfits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stockProfits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stockProfits2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stockProfits2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringCompression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -34,12 +120,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jimothy-timothy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0f678b89-7b54-4d86-9d6e-1714641410b1" />
+        <option name="url" value="https://github.com/jimothy-timothy/Leetcode.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,6 +151,9 @@
         <option name="usePluginRegistry" value="true" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -66,14 +170,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alec1/IdeaProjects/Leetcode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alec1/Coding Projects/Experimentation&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -83,30 +190,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.findPivotIndex">
-    <configuration name="containerMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="containerMostWater" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findPivotIndex" />
+    <configuration name="powerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerOfTwo" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestSubarrayOfOneAfterDeletingOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestSubarrayOfOneAfterDeletingOne" />
+    <configuration name="removeLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeLinkedListElements" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxConsecutiveOnes3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxConsecutiveOnes3" />
+    <configuration name="uniqueBinarySearchTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uniqueBinarySearchTrees" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wildcardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wildcardMatching" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,10 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.findPivotIndex" />
-        <item itemvalue="Application.longestSubarrayOfOneAfterDeletingOne" />
-        <item itemvalue="Application.maxConsecutiveOnes3" />
-        <item itemvalue="Application.containerMostWater" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.uniqueBinarySearchTrees" />
+        <item itemvalue="Application.wildcardMatching" />
+        <item itemvalue="Application.removeLinkedListElements" />
+        <item itemvalue="Application.powerOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +256,34 @@
       <workItem from="1695315648160" duration="740000" />
       <workItem from="1695318166056" duration="3656000" />
       <workItem from="1695410455607" duration="653000" />
+      <workItem from="1695697066732" duration="983000" />
+      <workItem from="1695746199485" duration="30000" />
+      <workItem from="1695746249546" duration="69000" />
+      <workItem from="1695746733112" duration="41000" />
+      <workItem from="1695787404970" duration="5819000" />
+      <workItem from="1695960789371" duration="3476000" />
+      <workItem from="1696097759864" duration="338000" />
+      <workItem from="1696098147033" duration="339000" />
+      <workItem from="1696099757053" duration="43000" />
+      <workItem from="1696205912796" duration="39000" />
+      <workItem from="1696341615131" duration="1929000" />
+      <workItem from="1696811640358" duration="22000" />
+      <workItem from="1697478171863" duration="3332000" />
+      <workItem from="1697489103850" duration="57000" />
+      <workItem from="1697489181068" duration="287000" />
+      <workItem from="1697502933479" duration="1461000" />
+      <workItem from="1697504422354" duration="234000" />
+      <workItem from="1697569684136" duration="1059000" />
+      <workItem from="1697573069441" duration="1880000" />
+      <workItem from="1697749934723" duration="1309000" />
+      <workItem from="1698083036232" duration="12691000" />
+      <workItem from="1698632834592" duration="43000" />
+      <workItem from="1698699995791" duration="1083000" />
+      <workItem from="1698946283934" duration="543000" />
+      <workItem from="1698951885914" duration="582000" />
+      <workItem from="1698952501369" duration="1025000" />
+      <workItem from="1699030764405" duration="1572000" />
+      <workItem from="1699466391546" duration="800000" />
     </task>
     <task id="LOCAL-00001" summary="Latest methods and problems">
       <created>1694631624093</created>
@@ -149,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694631624093</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Latest methods and problems">
+      <option name="closed" value="true" />
+      <created>1695697193544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695697193544</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

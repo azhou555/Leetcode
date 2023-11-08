@@ -1,7 +1,4 @@
 public class maximumVowelsSubstring {
-    public static void main(String[] args) {
-        System.out.println(maxVowels("abciiidef", 3));
-    }
     public static int maxVowels(String s, int k){
         char[] charArr = s.toCharArray();
         int curr = 0;

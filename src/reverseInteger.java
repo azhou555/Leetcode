@@ -1,7 +1,4 @@
 public class reverseInteger {
-    public static void main(String[] args) {
-        System.out.println(reverse(1534236469));
-    }
     public static int reverse(int x){
         boolean negative = x<0;
         if(negative){

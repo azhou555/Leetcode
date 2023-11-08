@@ -1,11 +1,6 @@
 import java.util.*;
 
 public class permutations {
-    public static void main(String[] args) {
-        int[] nums = {1, 1, 3};
-        System.out.println(permute(nums));
-    }
-
     public static List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         boolean[] visited = new boolean[nums.length];
@@ -18,7 +13,7 @@ public class permutations {
             list.add(new ArrayList<>(helper));
          else{
              for(int i = 0; i< nums.length; i++){
-                 if(visited[i] == false) {
+                 if(!visited[i]) {
                      visited[i] = true;
                      helper.add(nums[i]);
                      permuteHelper(list, helper, visited, nums);

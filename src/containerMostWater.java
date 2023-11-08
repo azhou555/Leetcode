@@ -1,8 +1,4 @@
 public class containerMostWater {
-    public static void main(String[] args) {
-        int[] heights = {2, 3, 4, 5, 17, 18, 6};
-        System.out.println(maxArea(heights));
-    }
     public static int maxArea(int[] height){
         int i = 0;
         int j = height.length-1;

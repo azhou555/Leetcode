@@ -2,9 +2,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 public class maxNumberKSumPairs {
-    public static void main(String[] args) {
-
-    }
     public static int maxOperations(int[] nums, int k) {
         Arrays.sort(nums);
         int left=0,right = nums.length-1,count=0;

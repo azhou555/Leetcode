@@ -1,11 +1,6 @@
 import java.util.*;
 
 public class randomisedSetImplementation {
-    public static void main(String[] args) {
-        RandomizedSet obj = new RandomizedSet();
-        System.out.println(obj.insert(2));
-        System.out.println(obj.remove(2));
-    }
 }
 
 class RandomizedSet {

@@ -1,10 +1,6 @@
 import java.util.*;
 
 public class citationIndex {
-    public static void main(String[] args) {
-        int[] citations = {0, 1};
-        System.out.println(hIndex(citations));
-    }
 
     public static int hIndex(int[] citations) {
         Arrays.sort(citations);

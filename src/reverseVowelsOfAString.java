@@ -1,7 +1,4 @@
 public class reverseVowelsOfAString {
-    public static void main(String[] args) {
-        System.out.println(reverseVowels("hello"));
-    }
     public static String reverseVowels(String s){
         char[] chArr = s.toCharArray();
         boolean[] visited = new boolean[chArr.length];
@@ -12,7 +9,7 @@ public class reverseVowelsOfAString {
                 l++;
             while( r >= 0 && !isVowel(chArr[r]))
                 r--;
-            if(l < chArr.length && r >= 0 && visited[l] == false && visited[r] == false) {
+            if(l < chArr.length && r >= 0 && !visited[l] && !visited[r]) {
                 char c = chArr[l];
                 chArr[l] = chArr[r];
                 chArr[r] = c;

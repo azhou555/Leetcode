@@ -1,13 +1,5 @@
-enum bool{
-    TRUE, FALSE
-}
 public class regularExpressionMatching {
     static bool[][] dp;
-    public static void main(String[] args) {
-        String a = "aa";
-        String p = "ab";
-        System.out.println(isMatch(a, p));
-    }
     public static boolean isMatch(String a, String p){
         dp =  new bool[a.length()+1][p.length()+1];
         return helper(0,0, a, p);
@@ -20,13 +12,13 @@ public class regularExpressionMatching {
         if(j == p.length()){
             result = i == a.length();
         } else{
-            boolean match = (i<a.length() && (p.charAt(i) == a.charAt(j) || p.charAt(i) == '.'));
-                if(j+1<p.length() && p.charAt(j+1) == '*'){
-                    result = (helper(i, j+2, a, p)) || match && helper(i+1, j+1, a, p);
-                } else{
-                    result = match && helper(i+1, j+1, a, p);
-                }
+            boolean match = (i<a.length() && (p.charAt(j) == a.charAt(i) || p.charAt(j) == '.'));
+            if(j+1<p.length() && p.charAt(j+1) == '*'){
+                result = (helper(i, j+2, a, p) || match && helper(i+1, j, a, p));
+            } else{
+                result = match && helper(i+1, j+1, a, p);
             }
+        }
         dp[i][j] = result ? bool.TRUE : bool.FALSE;
         return result;
     }

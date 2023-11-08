@@ -1,9 +1,5 @@
 import java.util.*;
 public class jumpGame {
-    public static void main(String[] args) {
-        int[] nums = {2, 3, 1, 1, 4};
-        System.out.println(canJump(nums));
-    }
     public static boolean canJump(int[] nums){
         int max = 0;
         for(int i = 0; i< nums.length; i++){
@@ -20,7 +16,7 @@ public class jumpGame {
         boolean[] dp = new boolean[nums.length];
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(0);
-        while(queue.size()>0){
+        while(!queue.isEmpty()){
             int y = queue.poll();
             int x = nums[y];
             for(int i=0; i<= x; i++){

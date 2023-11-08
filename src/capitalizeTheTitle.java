@@ -2,9 +2,6 @@ import static java.lang.Character.toLowerCase;
 import static java.lang.Character.toUpperCase;
 
 public class capitalizeTheTitle {
-    public static void main(String[] args) {
-        System.out.println(capitalizeTitle("L hV"));
-    }
     public static String capitalizeTitle1(String title){
         int l = title.length();
         String curr = "";

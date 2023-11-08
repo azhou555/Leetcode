@@ -1,7 +1,4 @@
 public class implementedPow {
-    public static void main(String[] args) {
-        System.out.println(myPow(3.0, -5));
-    }
     public static double myPow(double x, int n){
         long i = n;
         double ans = 1.0;

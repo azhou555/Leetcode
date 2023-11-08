@@ -1,28 +1,12 @@
 import java.util.*;
 
 public class kDistanceBinaryTree {
-    public static void main(String[] args) {
-        TreeNode a = new TreeNode(3);
-        TreeNode b = new TreeNode(5);
-        TreeNode c = new TreeNode(1);
-        TreeNode d = new TreeNode(6);
-        TreeNode e = new TreeNode(2);
-        TreeNode f = new TreeNode(0);
-        TreeNode g = new TreeNode(8);
-        TreeNode h = new TreeNode(7);
-        TreeNode i = new TreeNode(4);
-        f.left = c;
-        c.left = a;
-        c.right = e;
-        System.out.println(Arrays.toString(distanceK(f,e, 1).toArray()));
-
-    }
     public static List<Integer> distanceK(TreeNode root, TreeNode target, int k){
         Queue<TreeNode> queue = new LinkedList<>();
         Map<TreeNode, TreeNode> parents = new HashMap<>();
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
-        while (q.size()>0){
+        while (!q.isEmpty()){
             TreeNode c = q.poll();
             if (c.left != null) {
                 parents.put(c.left, c);
@@ -52,7 +36,7 @@ public class kDistanceBinaryTree {
                 }
             }
             k--;
-        } while(queue.size() > 0){
+        } while(!queue.isEmpty()){
             result.add(queue.poll().val);
         }
 
@@ -61,7 +45,7 @@ public class kDistanceBinaryTree {
     public static void getParent(Map<TreeNode,TreeNode> parent, TreeNode root){
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
-        while (queue.size()>=1){
+        while (!queue.isEmpty()){
             TreeNode c = queue.poll();
             if (c.left != null) {
                 parent.put(c.left, c);

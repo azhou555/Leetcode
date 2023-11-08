@@ -1,9 +1,6 @@
 import java.util.Arrays;
 
 public class greatestCommonDivisorOfStrings {
-    public static void main(String[] args) {
-        System.out.println(gcdOfStrings("ABCABC", "ABC"));
-    }
     public static String gcdOfStrings1(String str1, String str2){
         String max = "";
         for(int i = 1; i<Math.min(str1.length(), str2.length())+1; i++){
