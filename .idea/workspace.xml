@@ -9,98 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="Latest methods and problems">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binaryTreeInOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decodedStringAtIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kthLargestElementArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestBinarySubsequenceK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestValidParentheses32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/minimumDistanceTypeWordOnKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/monotonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/print2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printWordsVertically.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeNthNodeFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingArrayByParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumConsecutiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumOfNumbersWithUnitsDigitK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uniqueBinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcardMatching.java" afterDir="false" />
+    <list default="true" id="c3443508-ba40-445f-8914-f26cdac9a75b" name="Changes" comment="Latest problems. Removed main methods from individual classes and created Main class for overarching function runs.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OneHourKeyCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneHourKeyCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/addTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array2DuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array2DuplicateRemoval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayDuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayDuplicateRemoval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/candyKidRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/candyKidRating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/capitalizeTheTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/capitalizeTheTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/citationIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/citationIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containerMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/containerMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/detectCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/detectCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findPivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findPivotIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findTheHighestAltitude.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findTheHighestAltitude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstOccurenceIndexString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstOccurenceIndexString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frogJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frogJump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gasStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gasStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greatestCommonDivisorOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greatestCommonDivisorOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementedPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementedPow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/increasingTripletSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/increasingTripletSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interleavingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interleavingString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isSubsequence392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isSubsequence392.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isUglyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/islandBridgeConnecting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/islandBridgeConnecting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jumpGame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jumpGame2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kDistanceBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kDistanceBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kidsWithGreatestCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kidsWithGreatestCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kthFactorInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kthFactorInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/largestNumberString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/largestNumberString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lengthLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lengthLastWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longComPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longComPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestSubarrayOfOneAfterDeletingOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSubarrayOfOneAfterDeletingOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/majElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/majElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maxConsecutiveOnes3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxConsecutiveOnes3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maxNumberKSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxNumberKSumPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maximamAverageSubarray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maximumAverageSubarray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maximumVowelsSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maximumVowelsSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergeKSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergeStringsAlternately.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mergingSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergingSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moveZeroes283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nQueensChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nQueensChess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nthUglyNumberProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/palindromesourausNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindromesourausNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parenthesisValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parenthesisValid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/placingFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/placingFlowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/productArrayXSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/productArrayXSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/randomisedSetImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/randomisedSetImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regularExpressionMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/removeDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseVowelsOfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseVowelsOfAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseWordInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseWordInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/romanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/romanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shortestPalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shortestPalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/smallerPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smallerPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stockProfits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stockProfits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stockProfits2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stockProfits2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zigzagConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +49,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="0f678b89-7b54-4d86-9d6e-1714641410b1" />
+        <option name="accountId" value="791bf73e-8913-4cf9-ae21-c22ff3bb8b55" />
         <option name="url" value="https://github.com/jimothy-timothy/Leetcode.git" />
       </UrlAndAccount>
     </option>
@@ -151,6 +63,9 @@
         <option name="usePluginRegistry" value="true" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -229,8 +144,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.uniqueBinarySearchTrees" />
         <item itemvalue="Application.wildcardMatching" />
+        <item itemvalue="Application.uniqueBinarySearchTrees" />
         <item itemvalue="Application.removeLinkedListElements" />
         <item itemvalue="Application.powerOfTwo" />
       </list>
@@ -283,7 +198,7 @@
       <workItem from="1698951885914" duration="582000" />
       <workItem from="1698952501369" duration="1025000" />
       <workItem from="1699030764405" duration="1572000" />
-      <workItem from="1699466391546" duration="800000" />
+      <workItem from="1699466391546" duration="2609000" />
     </task>
     <task id="LOCAL-00001" summary="Latest methods and problems">
       <created>1694631624093</created>
@@ -300,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695697193544</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Latest problems. Removed main methods from individual classes and created a Main class for overarching function runs.">
+      <option name="closed" value="true" />
+      <created>1699467309152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699467309152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Latest problems. Removed main methods from individual classes and created Main class for overarching function runs.">
+      <option name="closed" value="true" />
+      <created>1699467387717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699467387717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +239,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Latest methods and problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Latest methods and problems" />
+    <MESSAGE value="Latest problems. Removed main methods from individual classes and created a Main class for overarching function runs." />
+    <MESSAGE value="Latest problems. Removed main methods from individual classes and created Main class for overarching function runs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest problems. Removed main methods from individual classes and created Main class for overarching function runs." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
