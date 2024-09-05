@@ -1,12 +1,9 @@
 public class wildcardMatching {
     static bool[][] dp;
     public boolean isMatch(String a, String p){
-        int i = 0;
-        int j = 0;
-        int m = 0;
-        int star = -1;
+        int i = 0, j = 0, m = 0, star = -1;
         while(i<a.length()){
-            if(j<p.length() && a.charAt(i) == p.charAt(j) || p.charAt(j) == '?'){
+            if(j<p.length() && (a.charAt(i) == p.charAt(j) || p.charAt(j) == '?')){
                 i++;
                 j++;
             } else if(j < p.length() && p.charAt(j) == '*'){

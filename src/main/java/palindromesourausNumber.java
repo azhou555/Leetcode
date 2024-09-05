@@ -1,5 +1,5 @@
 public class palindromesourausNumber {
-    public boolean isPalindrome(int x){
+    public boolean isPalindrome1(int x){
         if(x<0){
             return false;
         }
@@ -15,5 +15,19 @@ public class palindromesourausNumber {
             }
         }
         return true;
+    }
+    public boolean isPalindrome(int x) {
+        if (x < 0 || (x != 0 && x % 10 == 0)) {
+            return false;
+        }
+
+        int reversed = 0;
+
+        while (x > reversed) {
+            reversed = reversed * 10 + x % 10;
+            x /= 10;
+        }
+
+        return (x == reversed) || (x == reversed / 10);
     }
 }

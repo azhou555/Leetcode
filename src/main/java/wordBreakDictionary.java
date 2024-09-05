@@ -9,7 +9,6 @@ public class wordBreakDictionary {
         System.out.println(wordBreak1("apple", list));
     }
     public static boolean wordBreak1(String s, List<String> wordDict){
-        System.out.println(s);
         if(s.length() == 0){
             return true;
         }

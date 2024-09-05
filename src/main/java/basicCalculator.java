@@ -1,6 +1,8 @@
+import java.util.Stack;
+
 public class basicCalculator {
 
-    public int calculate(String s) {
+    public int calculate1(String s) {
         int curr = 0;
         int prev = 0;
         bool add = null;
@@ -36,5 +38,37 @@ public class basicCalculator {
             }
         }
         return prev;
+    }
+    public int calculate(String s){
+        Stack<Integer> stack = new Stack<>();
+        int result = 0;
+        int num = 0;
+        int operand = 1;
+        for(int i = 0; i< s.length(); i++){
+            char c = s.charAt(i);
+            if(Character.isDigit(c)){
+                num = 10*num+(int)(c- '0');
+            } else if(c == '+'){
+                result += operand*num;
+                num = 0;
+                operand = 1;
+            } else if(c == '-'){
+                result += operand*num;
+                num = 0;
+                operand = -1;
+            } else if(c == '('){
+                stack.push(result);
+                stack.push(operand);
+                operand = 1;
+                result = 0;
+            } else if(c == ')'){
+                result += operand*num;
+                num = 0;
+                result *= stack.pop();
+                result += stack.pop();
+            }
+        }
+        result += operand*num;
+        return result;
     }
 }

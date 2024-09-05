@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 public class longestValidParentheses32 {
-    public static int longestValidParentheses(String s) {
+    public int longestValidParentheses1(String s) {
         Stack<Character> stack = new Stack<>();
         int longest = 0;
         int curr = 0;
@@ -36,5 +36,23 @@ public class longestValidParentheses32 {
         }
         longest = Math.max(longest, curr);
         return Math.max(count, longest);
+    }
+    public int longestValidParentheses(String s){
+        Stack<Integer> stack = new Stack<>();
+        stack.push(-1);
+        int max = 0;
+        for(int i = 0; i < s.length(); i++){
+            if(s.charAt(i) == '('){
+                stack.push(i);
+            } else{
+                stack.pop();
+                if(stack.isEmpty()) {
+                    stack.push(i);
+                } else{
+                    max = Math.max(max, i-stack.peek());
+                }
+            }
+        }
+        return max;
     }
 }

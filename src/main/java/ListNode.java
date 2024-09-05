@@ -7,7 +7,7 @@ public class ListNode{
     public String toString(){
         return String.valueOf(val);
     }
-    public String toString(ListNode head){
+    public static String toString(ListNode head){
         StringBuilder sb = new StringBuilder();
         for(ListNode curr = head; curr != null; curr = curr.next){
             sb.append(curr.val).append(" ");
