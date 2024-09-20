@@ -2,7 +2,7 @@ public class removeLinkedListElements {
     public ListNode removeElements(ListNode head, int val) {
         ListNode curr = head;
         while (curr != null) {
-            System.out.println(curr.toString(curr));
+            System.out.println(curr.toString());
             if (curr.val == val) {
                 if (curr.next == null) {
                     if (head.next == null) {

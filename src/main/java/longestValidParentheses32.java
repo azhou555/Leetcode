@@ -37,7 +37,7 @@ public class longestValidParentheses32 {
         longest = Math.max(longest, curr);
         return Math.max(count, longest);
     }
-    public int longestValidParentheses(String s){
+    public static int longestValidParentheses(String s){
         Stack<Integer> stack = new Stack<>();
         stack.push(-1);
         int max = 0;
