@@ -21,7 +21,6 @@ public class selectionSort {
             int temp = arr[min_idx];
             arr[min_idx] = arr[i];
             arr[i] = temp;
-            System.out.println(i+", "+min_idx);
         }
     }
 }

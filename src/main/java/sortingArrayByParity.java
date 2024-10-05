@@ -18,16 +18,27 @@ public class sortingArrayByParity {
         int evenIndex = 0;
         int oddIndex = nums.length - 1;
 
-        for (int num : nums) {
-            if (num % 2 == 0) {
-                result[evenIndex] = num;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] % 2 == 0) {
+                result[evenIndex] = nums[i];
                 evenIndex++;
             } else {
-                result[oddIndex] = num;
+                result[oddIndex] = nums[i];
                 oddIndex--;
             }
         }
-
         return result;
+    }
+    public int[] sortArrayByParity2(int[] nums) {
+        int evenIndex = 0;
+        for(int i = 0; i< nums.length; i++){
+            if(nums[i] %2 == 0){
+                int temp = nums[evenIndex];
+                nums[evenIndex] = nums[i];
+                nums[i] = temp;
+                evenIndex++;
+            }
+        }
+        return nums;
     }
 }

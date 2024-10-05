@@ -3,15 +3,17 @@ import java.util.Arrays;
 public class longComPrefix {
     public String longestCommonPrefix(String[] strs){
         Arrays.sort(strs);
-        int i = 0;
-        while(i < strs[0].length()){
-            if(strs[0].charAt(i) == strs[strs.length-1].charAt(i)){
-                i++;
+        String s1 = strs[0];
+        String s2 = strs[strs.length - 1];
+        int index = 0;
+        while (index < s1.length() && index < s2.length()) {
+            if (s1.charAt(index) == s2.charAt(index)) {
+                index++;
             }
-            else{
+            else {
                 break;
             }
         }
-        return strs[0].substring(0,i);
+        return s1.substring(0, index);
     }
 }

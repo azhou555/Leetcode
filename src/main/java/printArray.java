@@ -5,7 +5,7 @@ public class printArray {
             System.out.print(array[i]+", ");
         }
         System.out.print(array[array.length-1]);
-        System.out.print("]");
+        System.out.println("]");
     }
     public static void intPrint(int[] array){
         System.out.print("[");
@@ -13,6 +13,6 @@ public class printArray {
             System.out.print(array[i]+", ");
         }
         System.out.print(array[array.length-1]);
-        System.out.print("]");
+        System.out.println("]");
     }
 }
