@@ -1,25 +1,44 @@
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
+
 public class majorityElementII {
-    public List<Integer> majorityElement(int[] nums){
-        int limit = nums.length/3;
-        HashMap<Integer, Integer> map = new HashMap<>();
+    public List<Integer> majorityElement(int[] nums) {
+        int count1 = 0, count2 = 0;
+        int candidate1 = 0, candidate2 = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (count1 == 0 && nums[i] != candidate2) {
+                count1 = 1;
+                candidate1 = nums[i];
+            } else if (count2 == 0 && nums[i] != candidate1) {
+                count2 = 1;
+                candidate2 = nums[i];
+            } else if (candidate1 == nums[i]) {
+                count1++;
+            } else if (candidate2 == nums[i]) {
+                count2++;
+            } else {
+                count1--;
+                count2--;
+            }
+        }
+
         List<Integer> result = new ArrayList<>();
-        for(int x: nums){
-            if(map.containsKey(x)){
-                map.put(x, map.get(x)+1);
-            } else{
-                map.put(x, 1);
+        int threshold = nums.length / 3;
+        count1 = 0;
+        count2 = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (candidate1 == nums[i]) {
+                count1++;
+            } else if (candidate2 == nums[i]) {
+                count2++;
             }
-            if(map.get(x) > limit){
-                if(!result.contains(x)){
-                    result.add(x);
-                }
-                if(result.size() > 1){
-                    return result;
-                }
-            }
+        }
+        if (count1 > threshold) {
+            result.add(candidate1);
+        }
+        if (count2 > threshold) {
+            result.add(candidate2);
         }
         return result;
     }
